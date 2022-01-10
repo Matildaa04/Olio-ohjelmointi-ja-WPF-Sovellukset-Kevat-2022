@@ -6,7 +6,11 @@ namespace Harjoitus3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Kiuas kiuas = new Kiuas("Kiuas", 45, 30);
+            kiuas.NäytäTiedot();
+            kiuas.SäädäLämpötila(78);
+            kiuas.SäädäKosteutta(55);
+
         }
     }
 }

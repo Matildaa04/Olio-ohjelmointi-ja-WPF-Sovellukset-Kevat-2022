@@ -6,9 +6,10 @@ namespace Harjoitus2
     {
         static void Main(string[] args)
         {
-            Opiskelija opiskelija = new Opiskelija();
-
-
+            Opiskelija opiskelija = new Opiskelija("Pekka", "12345", 0);
+            opiskelija.TulostaData();
+            opiskelija.MuokkaaOpintopisteitä(10);
+            opiskelija.MuokkaaOpintopisteitä(15);
             opiskelija.TulostaData();
         }
     }
