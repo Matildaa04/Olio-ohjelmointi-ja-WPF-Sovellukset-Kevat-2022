@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Olioohjelmointi", "Olioohjelmointi\Olioohjelmointi.csproj", "{4412F7E3-74F6-4709-88B3-0171930098CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Olioohjelmointi", "Olioohjelmointi\Olioohjelmointi.csproj", "{4412F7E3-74F6-4709-88B3-0171930098CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ajoneuvoharjoitus", "Ajoneuvoharjoitus\Ajoneuvoharjoitus.csproj", "{B51D28BF-56F4-44E2-9B40-ACCD7DFA7EBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus2", "Harjoitus2\Harjoitus2.csproj", "{18F1B133-0BE0-473A-97E7-F76E1BACF15D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus3", "Harjoitus3\Harjoitus3.csproj", "{18C63347-0974-4A22-AD44-6B737CA7615A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{4412F7E3-74F6-4709-88B3-0171930098CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4412F7E3-74F6-4709-88B3-0171930098CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4412F7E3-74F6-4709-88B3-0171930098CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B51D28BF-56F4-44E2-9B40-ACCD7DFA7EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B51D28BF-56F4-44E2-9B40-ACCD7DFA7EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B51D28BF-56F4-44E2-9B40-ACCD7DFA7EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B51D28BF-56F4-44E2-9B40-ACCD7DFA7EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18F1B133-0BE0-473A-97E7-F76E1BACF15D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18F1B133-0BE0-473A-97E7-F76E1BACF15D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18F1B133-0BE0-473A-97E7-F76E1BACF15D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18F1B133-0BE0-473A-97E7-F76E1BACF15D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18C63347-0974-4A22-AD44-6B737CA7615A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18C63347-0974-4A22-AD44-6B737CA7615A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18C63347-0974-4A22-AD44-6B737CA7615A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18C63347-0974-4A22-AD44-6B737CA7615A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

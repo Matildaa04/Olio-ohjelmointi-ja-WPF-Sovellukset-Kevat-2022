@@ -1,0 +1,14 @@
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Ajoneuvoharjoitus\bin\Debug\netcoreapp3.1\Ajoneuvoharjoitus.exe
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Ajoneuvoharjoitus\bin\Debug\netcoreapp3.1\Ajoneuvoharjoitus.deps.json
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Ajoneuvoharjoitus\bin\Debug\netcoreapp3.1\Ajoneuvoharjoitus.runtimeconfig.json
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Ajoneuvoharjoitus\bin\Debug\netcoreapp3.1\Ajoneuvoharjoitus.runtimeconfig.dev.json
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Ajoneuvoharjoitus\bin\Debug\netcoreapp3.1\Ajoneuvoharjoitus.dll
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Ajoneuvoharjoitus\bin\Debug\netcoreapp3.1\Ajoneuvoharjoitus.pdb
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Ajoneuvoharjoitus\obj\Debug\netcoreapp3.1\Ajoneuvoharjoitus.csproj.AssemblyReference.cache
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Ajoneuvoharjoitus\obj\Debug\netcoreapp3.1\Ajoneuvoharjoitus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Ajoneuvoharjoitus\obj\Debug\netcoreapp3.1\Ajoneuvoharjoitus.AssemblyInfoInputs.cache
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Ajoneuvoharjoitus\obj\Debug\netcoreapp3.1\Ajoneuvoharjoitus.AssemblyInfo.cs
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Ajoneuvoharjoitus\obj\Debug\netcoreapp3.1\Ajoneuvoharjoitus.csproj.CoreCompileInputs.cache
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Ajoneuvoharjoitus\obj\Debug\netcoreapp3.1\Ajoneuvoharjoitus.dll
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Ajoneuvoharjoitus\obj\Debug\netcoreapp3.1\Ajoneuvoharjoitus.pdb
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Ajoneuvoharjoitus\obj\Debug\netcoreapp3.1\Ajoneuvoharjoitus.genruntimeconfig.cache
