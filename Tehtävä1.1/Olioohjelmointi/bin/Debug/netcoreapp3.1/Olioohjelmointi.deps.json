@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Olioohjelmointi/1.0.0": {
+        "runtime": {
+          "Olioohjelmointi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Olioohjelmointi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
