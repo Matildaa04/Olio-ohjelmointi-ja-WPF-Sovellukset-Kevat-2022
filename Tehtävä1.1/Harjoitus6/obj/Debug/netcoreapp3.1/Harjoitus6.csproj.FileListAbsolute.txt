@@ -1,0 +1,4 @@
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus6\obj\Debug\netcoreapp3.1\Harjoitus6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus6\obj\Debug\netcoreapp3.1\Harjoitus6.AssemblyInfoInputs.cache
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus6\obj\Debug\netcoreapp3.1\Harjoitus6.AssemblyInfo.cs
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus6\obj\Debug\netcoreapp3.1\Harjoitus6.csproj.CoreCompileInputs.cache
