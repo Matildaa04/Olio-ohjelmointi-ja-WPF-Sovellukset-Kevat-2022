@@ -1,0 +1,14 @@
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Perintä\bin\Debug\netcoreapp3.1\Perintä.exe
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Perintä\bin\Debug\netcoreapp3.1\Perintä.deps.json
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Perintä\bin\Debug\netcoreapp3.1\Perintä.runtimeconfig.json
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Perintä\bin\Debug\netcoreapp3.1\Perintä.runtimeconfig.dev.json
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Perintä\bin\Debug\netcoreapp3.1\Perintä.dll
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Perintä\bin\Debug\netcoreapp3.1\Perintä.pdb
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Perintä\obj\Debug\netcoreapp3.1\Perintä.csproj.AssemblyReference.cache
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Perintä\obj\Debug\netcoreapp3.1\Perintä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Perintä\obj\Debug\netcoreapp3.1\Perintä.AssemblyInfoInputs.cache
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Perintä\obj\Debug\netcoreapp3.1\Perintä.AssemblyInfo.cs
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Perintä\obj\Debug\netcoreapp3.1\Perintä.csproj.CoreCompileInputs.cache
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Perintä\obj\Debug\netcoreapp3.1\Perintä.dll
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Perintä\obj\Debug\netcoreapp3.1\Perintä.pdb
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Perintä\obj\Debug\netcoreapp3.1\Perintä.genruntimeconfig.cache
