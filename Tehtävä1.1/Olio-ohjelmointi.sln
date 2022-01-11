@@ -5,11 +5,17 @@ VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Olioohjelmointi", "Olioohjelmointi\Olioohjelmointi.csproj", "{4412F7E3-74F6-4709-88B3-0171930098CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ajoneuvoharjoitus", "Ajoneuvoharjoitus\Ajoneuvoharjoitus.csproj", "{B51D28BF-56F4-44E2-9B40-ACCD7DFA7EBA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ajoneuvoharjoitus", "Ajoneuvoharjoitus\Ajoneuvoharjoitus.csproj", "{B51D28BF-56F4-44E2-9B40-ACCD7DFA7EBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus2", "Harjoitus2\Harjoitus2.csproj", "{18F1B133-0BE0-473A-97E7-F76E1BACF15D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus2", "Harjoitus2\Harjoitus2.csproj", "{18F1B133-0BE0-473A-97E7-F76E1BACF15D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus3", "Harjoitus3\Harjoitus3.csproj", "{18C63347-0974-4A22-AD44-6B737CA7615A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus3", "Harjoitus3\Harjoitus3.csproj", "{18C63347-0974-4A22-AD44-6B737CA7615A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus4", "Harjoitus4\Harjoitus4.csproj", "{D887FEFC-C0F0-495F-A52F-C28472B6090C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static Esimerkki", "Static Esimerkki\Static Esimerkki.csproj", "{39C85C3A-654A-4F92-8769-8C96E49F0051}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus5", "Harjoitus5\Harjoitus5.csproj", "{5276F100-9B3A-4E0F-8F02-0FCD0B60054D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,18 @@ Global
 		{18C63347-0974-4A22-AD44-6B737CA7615A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18C63347-0974-4A22-AD44-6B737CA7615A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18C63347-0974-4A22-AD44-6B737CA7615A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D887FEFC-C0F0-495F-A52F-C28472B6090C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D887FEFC-C0F0-495F-A52F-C28472B6090C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D887FEFC-C0F0-495F-A52F-C28472B6090C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D887FEFC-C0F0-495F-A52F-C28472B6090C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39C85C3A-654A-4F92-8769-8C96E49F0051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39C85C3A-654A-4F92-8769-8C96E49F0051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39C85C3A-654A-4F92-8769-8C96E49F0051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39C85C3A-654A-4F92-8769-8C96E49F0051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5276F100-9B3A-4E0F-8F02-0FCD0B60054D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5276F100-9B3A-4E0F-8F02-0FCD0B60054D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5276F100-9B3A-4E0F-8F02-0FCD0B60054D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5276F100-9B3A-4E0F-8F02-0FCD0B60054D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

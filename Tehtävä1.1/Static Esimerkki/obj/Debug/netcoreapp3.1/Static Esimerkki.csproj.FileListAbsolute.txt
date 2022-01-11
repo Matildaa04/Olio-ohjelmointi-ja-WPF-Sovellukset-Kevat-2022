@@ -1,0 +1,14 @@
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Static Esimerkki\bin\Debug\netcoreapp3.1\Static Esimerkki.exe
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Static Esimerkki\bin\Debug\netcoreapp3.1\Static Esimerkki.deps.json
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Static Esimerkki\bin\Debug\netcoreapp3.1\Static Esimerkki.runtimeconfig.json
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Static Esimerkki\bin\Debug\netcoreapp3.1\Static Esimerkki.runtimeconfig.dev.json
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Static Esimerkki\bin\Debug\netcoreapp3.1\Static Esimerkki.dll
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Static Esimerkki\bin\Debug\netcoreapp3.1\Static Esimerkki.pdb
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Static Esimerkki\obj\Debug\netcoreapp3.1\Static Esimerkki.csproj.AssemblyReference.cache
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Static Esimerkki\obj\Debug\netcoreapp3.1\Static Esimerkki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Static Esimerkki\obj\Debug\netcoreapp3.1\Static Esimerkki.AssemblyInfoInputs.cache
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Static Esimerkki\obj\Debug\netcoreapp3.1\Static Esimerkki.AssemblyInfo.cs
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Static Esimerkki\obj\Debug\netcoreapp3.1\Static Esimerkki.csproj.CoreCompileInputs.cache
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Static Esimerkki\obj\Debug\netcoreapp3.1\Static Esimerkki.dll
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Static Esimerkki\obj\Debug\netcoreapp3.1\Static Esimerkki.pdb
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Static Esimerkki\obj\Debug\netcoreapp3.1\Static Esimerkki.genruntimeconfig.cache
