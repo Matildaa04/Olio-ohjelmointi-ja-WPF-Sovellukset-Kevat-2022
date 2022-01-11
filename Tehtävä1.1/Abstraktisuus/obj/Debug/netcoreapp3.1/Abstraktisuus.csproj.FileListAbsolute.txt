@@ -1,0 +1,13 @@
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Abstraktisuus\bin\Debug\netcoreapp3.1\Abstraktisuus.exe
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Abstraktisuus\bin\Debug\netcoreapp3.1\Abstraktisuus.deps.json
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Abstraktisuus\bin\Debug\netcoreapp3.1\Abstraktisuus.runtimeconfig.json
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Abstraktisuus\bin\Debug\netcoreapp3.1\Abstraktisuus.runtimeconfig.dev.json
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Abstraktisuus\bin\Debug\netcoreapp3.1\Abstraktisuus.dll
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Abstraktisuus\bin\Debug\netcoreapp3.1\Abstraktisuus.pdb
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Abstraktisuus\obj\Debug\netcoreapp3.1\Abstraktisuus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Abstraktisuus\obj\Debug\netcoreapp3.1\Abstraktisuus.AssemblyInfoInputs.cache
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Abstraktisuus\obj\Debug\netcoreapp3.1\Abstraktisuus.AssemblyInfo.cs
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Abstraktisuus\obj\Debug\netcoreapp3.1\Abstraktisuus.csproj.CoreCompileInputs.cache
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Abstraktisuus\obj\Debug\netcoreapp3.1\Abstraktisuus.dll
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Abstraktisuus\obj\Debug\netcoreapp3.1\Abstraktisuus.pdb
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Abstraktisuus\obj\Debug\netcoreapp3.1\Abstraktisuus.genruntimeconfig.cache

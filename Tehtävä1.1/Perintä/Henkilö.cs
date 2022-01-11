@@ -10,11 +10,15 @@ namespace Perintä
         public int Ikä;
         public int Henkilötunnus;
 
+        private static int Instanssit = 0;
+
         public Henkilö(string nimi, int ikä, int henkilötunnus)
         {
             Nimi = nimi;
             Ikä = ikä;
             Henkilötunnus = henkilötunnus;
+
+            Instanssit++;
         }
 
         public virtual void TulostaTiedot()
@@ -30,6 +34,11 @@ namespace Perintä
         public void Juo()
         {
             Console.WriteLine(Nimi + " juo vettä...");
+        }
+
+        public static void KuinkaMontaHenkilöä()
+        {
+            Console.WriteLine("Henkilöitä olemassa: " + Instanssit);
         }
     }
 }
