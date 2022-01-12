@@ -2,10 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Harjoitus8_KT_
+namespace Harjoitus9
 {
-    class Työntekijä : Henkilö
+    class Kanava
     {
-
     }
 }

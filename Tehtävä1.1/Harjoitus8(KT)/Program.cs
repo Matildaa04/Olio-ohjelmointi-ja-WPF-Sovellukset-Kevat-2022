@@ -6,7 +6,8 @@ namespace Harjoitus8_KT_
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Työntekijä työntekijä = new Työntekijä("Pekka", 26);
+            Pomo pomo = new Pomo("Ville", 40);
         }
     }
 }
