@@ -1,0 +1,14 @@
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus8(KT)\bin\Debug\netcoreapp3.1\Harjoitus8(KT).exe
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus8(KT)\bin\Debug\netcoreapp3.1\Harjoitus8(KT).deps.json
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus8(KT)\bin\Debug\netcoreapp3.1\Harjoitus8(KT).runtimeconfig.json
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus8(KT)\bin\Debug\netcoreapp3.1\Harjoitus8(KT).runtimeconfig.dev.json
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus8(KT)\bin\Debug\netcoreapp3.1\Harjoitus8(KT).dll
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus8(KT)\bin\Debug\netcoreapp3.1\Harjoitus8(KT).pdb
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus8(KT)\obj\Debug\netcoreapp3.1\Harjoitus8(KT).csproj.AssemblyReference.cache
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus8(KT)\obj\Debug\netcoreapp3.1\Harjoitus8(KT).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus8(KT)\obj\Debug\netcoreapp3.1\Harjoitus8(KT).AssemblyInfoInputs.cache
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus8(KT)\obj\Debug\netcoreapp3.1\Harjoitus8(KT).AssemblyInfo.cs
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus8(KT)\obj\Debug\netcoreapp3.1\Harjoitus8(KT).csproj.CoreCompileInputs.cache
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus8(KT)\obj\Debug\netcoreapp3.1\Harjoitus8(KT).dll
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus8(KT)\obj\Debug\netcoreapp3.1\Harjoitus8(KT).pdb
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus8(KT)\obj\Debug\netcoreapp3.1\Harjoitus8(KT).genruntimeconfig.cache

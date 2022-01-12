@@ -6,8 +6,19 @@ namespace Harjoitus8_KT_
     {
         static void Main(string[] args)
         {
-            Työntekijä työntekijä = new Työntekijä("Pekka", 26);
-            Pomo pomo = new Pomo("Ville", 40);
+            Henkilö pomo = new Pomo("Pekka",40,"Audi",2000);
+            Henkilö työntekijä = new Työntekijä("Ville",25,38);
+
+            Console.WriteLine("----------------------");
+            Console.WriteLine("Pomo");
+            Console.WriteLine("----------------------");
+            Pomo.TulostaTiedot();
+            Pomo.KuinkaMontaPomoa();
+           
+            Console.WriteLine("----------------------");
+            Console.WriteLine("Työntekijä");
+            Console.WriteLine("----------------------");
+            Työntekijä.TulostaTiedot();
         }
     }
 }
