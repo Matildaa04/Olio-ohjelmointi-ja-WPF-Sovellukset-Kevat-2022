@@ -1,0 +1,14 @@
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Kokoelmat\bin\Debug\netcoreapp3.1\Kokoelmat.exe
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Kokoelmat\bin\Debug\netcoreapp3.1\Kokoelmat.deps.json
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Kokoelmat\bin\Debug\netcoreapp3.1\Kokoelmat.runtimeconfig.json
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Kokoelmat\bin\Debug\netcoreapp3.1\Kokoelmat.runtimeconfig.dev.json
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Kokoelmat\bin\Debug\netcoreapp3.1\Kokoelmat.dll
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Kokoelmat\bin\Debug\netcoreapp3.1\Kokoelmat.pdb
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Kokoelmat\obj\Debug\netcoreapp3.1\Kokoelmat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Kokoelmat\obj\Debug\netcoreapp3.1\Kokoelmat.AssemblyInfoInputs.cache
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Kokoelmat\obj\Debug\netcoreapp3.1\Kokoelmat.AssemblyInfo.cs
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Kokoelmat\obj\Debug\netcoreapp3.1\Kokoelmat.csproj.CoreCompileInputs.cache
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Kokoelmat\obj\Debug\netcoreapp3.1\Kokoelmat.dll
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Kokoelmat\obj\Debug\netcoreapp3.1\Kokoelmat.pdb
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Kokoelmat\obj\Debug\netcoreapp3.1\Kokoelmat.genruntimeconfig.cache
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Kokoelmat\obj\Debug\netcoreapp3.1\Kokoelmat.csproj.AssemblyReference.cache
