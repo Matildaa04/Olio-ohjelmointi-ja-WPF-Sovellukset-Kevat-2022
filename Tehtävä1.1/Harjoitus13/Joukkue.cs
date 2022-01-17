@@ -6,5 +6,10 @@ namespace Harjoitus13
 {
     class Joukkue
     {
+        public string Nimi;
+        public string Kotikaupunki;
+        public int Pelaajat;
+
+
     }
 }

@@ -1,0 +1,13 @@
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus13\bin\Debug\netcoreapp3.1\Harjoitus13.exe
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus13\bin\Debug\netcoreapp3.1\Harjoitus13.deps.json
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus13\bin\Debug\netcoreapp3.1\Harjoitus13.runtimeconfig.json
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus13\bin\Debug\netcoreapp3.1\Harjoitus13.runtimeconfig.dev.json
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus13\bin\Debug\netcoreapp3.1\Harjoitus13.dll
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus13\bin\Debug\netcoreapp3.1\Harjoitus13.pdb
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus13\obj\Debug\netcoreapp3.1\Harjoitus13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus13\obj\Debug\netcoreapp3.1\Harjoitus13.AssemblyInfoInputs.cache
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus13\obj\Debug\netcoreapp3.1\Harjoitus13.AssemblyInfo.cs
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus13\obj\Debug\netcoreapp3.1\Harjoitus13.csproj.CoreCompileInputs.cache
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus13\obj\Debug\netcoreapp3.1\Harjoitus13.dll
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus13\obj\Debug\netcoreapp3.1\Harjoitus13.pdb
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus13\obj\Debug\netcoreapp3.1\Harjoitus13.genruntimeconfig.cache
