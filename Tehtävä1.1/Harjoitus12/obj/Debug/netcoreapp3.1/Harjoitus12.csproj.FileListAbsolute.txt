@@ -1,0 +1,14 @@
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus12\bin\Debug\netcoreapp3.1\Harjoitus12.exe
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus12\bin\Debug\netcoreapp3.1\Harjoitus12.deps.json
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus12\bin\Debug\netcoreapp3.1\Harjoitus12.runtimeconfig.json
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus12\bin\Debug\netcoreapp3.1\Harjoitus12.runtimeconfig.dev.json
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus12\bin\Debug\netcoreapp3.1\Harjoitus12.dll
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus12\bin\Debug\netcoreapp3.1\Harjoitus12.pdb
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus12\obj\Debug\netcoreapp3.1\Harjoitus12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus12\obj\Debug\netcoreapp3.1\Harjoitus12.AssemblyInfoInputs.cache
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus12\obj\Debug\netcoreapp3.1\Harjoitus12.AssemblyInfo.cs
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus12\obj\Debug\netcoreapp3.1\Harjoitus12.csproj.CoreCompileInputs.cache
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus12\obj\Debug\netcoreapp3.1\Harjoitus12.dll
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus12\obj\Debug\netcoreapp3.1\Harjoitus12.pdb
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus12\obj\Debug\netcoreapp3.1\Harjoitus12.genruntimeconfig.cache
+C:\Users\Matilda\Documents\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Tehtävä1.1\Harjoitus12\obj\Debug\netcoreapp3.1\Harjoitus12.csproj.AssemblyReference.cache

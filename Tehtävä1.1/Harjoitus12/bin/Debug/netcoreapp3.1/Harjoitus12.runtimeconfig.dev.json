@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Matilda\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Matilda\\.nuget\\packages"
+    ]
+  }
+}
