@@ -7,10 +7,10 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="550" Width="1000">
     <Grid>
-        <Button x:Name="btn_MilesToKm" Content="Muunna kilometreiksi" HorizontalAlignment="Left" Margin="536,231,0,0" VerticalAlignment="Top" Width="137" Height="84" Click="btn_MilesToKm_Click"/>
-        <Button x:Name="btn_KmToMiles" Content="Muunna maileiksi" HorizontalAlignment="Left" Margin="307,231,0,0" VerticalAlignment="Top" Width="144" Height="84" Click="btn_KmToMiles_Click"/>
+        <Button x:Name="btn_MilesToKm" Content="Muunna kilometreiksi" HorizontalAlignment="Left" Margin="536,194,0,0" VerticalAlignment="Top" Width="186" Height="121" Click="btn_MilesToKm_Click"/>
+        <Button x:Name="btn_KmToMiles" Content="Muunna maileiksi" HorizontalAlignment="Left" Margin="285,194,0,0" VerticalAlignment="Top" Width="166" Height="121" Click="btn_KmToMiles_Click"/>
         <TextBlock x:Name="tb_LoppuTulos" HorizontalAlignment="Left" Margin="436,368,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="32" Width="109"/>
-        <TextBox x:Name="txt_Input" HorizontalAlignment="Left" Height="23" Margin="391,166,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="220"/>
+        <TextBox x:Name="txt_Input" HorizontalAlignment="Left" Height="23" Margin="388,144,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="220"/>
 
     </Grid>
 </Window>
