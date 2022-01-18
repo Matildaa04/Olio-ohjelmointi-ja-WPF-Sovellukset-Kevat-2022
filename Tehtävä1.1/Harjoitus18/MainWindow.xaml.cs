@@ -20,9 +20,76 @@ namespace Harjoitus18
     /// </summary>
     public partial class MainWindow : Window
     {
+        float lopputulos = 20;
+        float summa;
+        float erotus;
+        float kertolasku;
+        float jakolasku;
+
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void btn_Summa_Click(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                float num1 = Convert.ToSingle(txt_Text1.Text);
+                float num2 = Convert.ToSingle(txt_Text2.Text);
+                tb_Lopputulos.Text = (num1 + num2).ToString();
+            }
+            catch (Exception)
+            {
+
+                MessageBox.Show("Syötä vain numeroita");
+            }
+
+        }
+
+        private void btn_Erotus_Click(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                float num1 = Convert.ToSingle(txt_Text1.Text);
+                float num2 = Convert.ToSingle(txt_Text2.Text);
+                tb_Lopputulos.Text = (num1 - num2).ToString();
+            }
+            catch (Exception)
+            {
+
+                MessageBox.Show("Syötä vain numeroita");
+            }
+        }
+
+        private void btn_Kertolasku_Click(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                float num1 = Convert.ToSingle(txt_Text1.Text);
+                float num2 = Convert.ToSingle(txt_Text2.Text);
+                tb_Lopputulos.Text = (num1 * num2).ToString();
+            }
+            catch (Exception)
+            {
+
+                MessageBox.Show("Syötä vain numeroita");
+            }
+        }
+
+        private void btn_Jakolasku_Click(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                float num1 = Convert.ToSingle(txt_Text1.Text);
+                float num2 = Convert.ToSingle(txt_Text2.Text);
+                tb_Lopputulos.Text = (num1 / num2).ToString();
+            }
+            catch (Exception)
+            {
+
+                MessageBox.Show("Syötä vain numeroita");
+            }
         }
     }
 }
