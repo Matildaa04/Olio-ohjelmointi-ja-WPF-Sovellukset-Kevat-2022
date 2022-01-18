@@ -9,6 +9,8 @@ namespace Harjoitus_12
         {
             List<string> pakka = new List<string>();
 
+
+
             for (int i = 0; i < 13; i++)
             {
                 pakka.Add("Pata - " + (i + 1));
@@ -22,20 +24,19 @@ namespace Harjoitus_12
             {
                 Console.WriteLine(kortti);
             }
-
         }
 
-        static Random r = new Random();
-
-        static public void Shuffle(int[] deck)
+        private static Random r = new Random();
+        static void Shuffle<T>(List<T> pakka)
         {
-            for (int n = deck.Length - 1; n > 0; --n)
+            for (int i = 0; i < pakka.Count; i++)
             {
-                int k = r.Next(n + 1);
-                int temp = deck[n];
-                deck[n] = deck[k];
-                deck[k] = temp;
+                int idx = r.Next(i, pakka.Count);
+                T temp = pakka[idx];
+                pakka[idx] = pakka[i];
+                pakka[i] = temp;
             }
         }
     }
 }
+

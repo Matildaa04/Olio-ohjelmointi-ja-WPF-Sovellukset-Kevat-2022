@@ -29,15 +29,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus7", "Harjoitus7\Ha
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus9", "Harjoitus9\Harjoitus9.csproj", "{1C0BBEA2-22D3-4EC0-B82D-00BEC7A0845C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus10", "Harjoitus10\Harjoitus10.csproj", "{BCC9ED03-3FF8-49C4-84FD-68E37FD92B43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus10", "Harjoitus10\Harjoitus10.csproj", "{BCC9ED03-3FF8-49C4-84FD-68E37FD92B43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kokoelmat", "Kokoelmat\Kokoelmat.csproj", "{0774F601-3E29-4B8D-8576-AF6B8D5FF5E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kokoelmat", "Kokoelmat\Kokoelmat.csproj", "{0774F601-3E29-4B8D-8576-AF6B8D5FF5E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus11", "Harjoitus11\Harjoitus11.csproj", "{211BC2F7-8654-4009-AC75-FA9B40399523}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus11", "Harjoitus11\Harjoitus11.csproj", "{211BC2F7-8654-4009-AC75-FA9B40399523}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus13", "Harjoitus13\Harjoitus13.csproj", "{9C4C1329-8A07-4E8D-87CA-6F8C5DE5445A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus13", "Harjoitus13\Harjoitus13.csproj", "{9C4C1329-8A07-4E8D-87CA-6F8C5DE5445A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus 12", "Harjoitus 12\Harjoitus 12.csproj", "{5BA7CBA1-D305-4447-BA18-D33B937BADA1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus 12", "Harjoitus 12\Harjoitus 12.csproj", "{5BA7CBA1-D305-4447-BA18-D33B937BADA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus15", "Harjoitus15\Harjoitus15.csproj", "{2BEE5C73-75AE-4787-A678-9DBBBCFFB5AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus16", "Harjoitus16\Harjoitus16.csproj", "{E976E173-07C5-4368-8976-E11A66BA949B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +121,14 @@ Global
 		{5BA7CBA1-D305-4447-BA18-D33B937BADA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BA7CBA1-D305-4447-BA18-D33B937BADA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BA7CBA1-D305-4447-BA18-D33B937BADA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BEE5C73-75AE-4787-A678-9DBBBCFFB5AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BEE5C73-75AE-4787-A678-9DBBBCFFB5AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BEE5C73-75AE-4787-A678-9DBBBCFFB5AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BEE5C73-75AE-4787-A678-9DBBBCFFB5AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E976E173-07C5-4368-8976-E11A66BA949B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E976E173-07C5-4368-8976-E11A66BA949B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E976E173-07C5-4368-8976-E11A66BA949B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E976E173-07C5-4368-8976-E11A66BA949B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
