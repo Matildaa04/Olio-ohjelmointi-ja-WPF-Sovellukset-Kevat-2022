@@ -43,7 +43,7 @@ namespace Harjoitus17
         private void btn_Keittiö_Click(object sender, RoutedEventArgs e)
         {
             keittiöValot = !keittiöValot;
-            tb_OlohuoneTila.Text = olohuoneenValot.ToString();
+            tb_KeittiöTila.Text = keittiöValot.ToString();
         }
 
         private void btn_Ovi_Click(object sender, RoutedEventArgs e)
@@ -54,8 +54,19 @@ namespace Harjoitus17
 
         private void txt_Termostaatti_TextChanged(object sender, TextChangedEventArgs e)
         {
-           lämpötila = int.Parse(txt_Termostaatti.Text);
-            tb_Lämpötila.Text = "Talon sisälämpötila on " + lämpötila;
+            if (System.Text.RegularExpressions.Regex.IsMatch(txt_Termostaatti.Text, "[^0-9]"))
+            {
+                MessageBox.Show("Please enter only numbers.");
+                txt_Termostaatti.Text = "";
+            }
+            else
+            {
+                if (txt_Termostaatti.Text == "")
+                    return;
+
+                lämpötila = int.Parse(txt_Termostaatti.Text);
+                tb_Lämpötila.Text = "Talon sisälämpötila on " + lämpötila;
+            }
         }
     }
 }
