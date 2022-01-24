@@ -27,7 +27,8 @@ namespace SivujenVaihto
 
         private void btn_PreviousPage_Click(object sender, RoutedEventArgs e)
         {
-            this.NavigationService.Navigate(new Page1());
+            //this.NavigationService.Navigate(new Page1());
+            this.NavigationService.Navigate(MainWindow.Sivut[0]);
         }
     }
 }

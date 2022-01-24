@@ -20,10 +20,16 @@ namespace SivujenVaihto
     /// </summary>
     public partial class MainWindow : Window
     {
+        public static List<Page> Sivut = new List<Page>();
+
         public MainWindow()
         {
             InitializeComponent();
-            Frame_Main.NavigationService.Navigate(new Page1());
+
+            Sivut.Add(new Page1()); 
+            Sivut.Add(new Page2());
+
+            Frame_Main.NavigationService.Navigate(Sivut[0]);
         }
     }
 }
