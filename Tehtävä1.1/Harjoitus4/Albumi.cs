@@ -7,9 +7,10 @@ namespace Harjoitus4
     class Albumi
     {
 
-
+        //Lista kappaleista
         private List<Kappale> kappaleet = new List<Kappale>();
 
+        //Lisätään uusi kappale
         public void LisääKappale(Kappale uusiKappale)
         {
             kappaleet.Add(uusiKappale);
@@ -25,11 +26,13 @@ namespace Harjoitus4
             }
         }
 
+        //Ominaisuudet
         public string Artisti;
         public string Nimi;
         public string Genre;
         public int Hinta;
 
+        //Uusi albumi
         public Albumi(string artisti, string nimi, string genre, int hinta)
         {
             Artisti = artisti;

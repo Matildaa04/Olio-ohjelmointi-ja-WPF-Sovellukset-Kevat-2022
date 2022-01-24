@@ -6,11 +6,14 @@ namespace Harjoitus3
 {
     class Kiuas
     {
+        //Kiukaan ominaisuudet
         private string Nimi;
         private int Lämpötila;
         private int Kosteus;
-        public bool Tila = false;
 
+        public bool Tila = false; //Määrittää, onko kiuas päällä vai pois päältä
+
+        //Konstruktori kiukaalle
         public Kiuas(string nimi, int lämpötila, int kosteus)
         {
             Nimi = nimi;
@@ -20,25 +23,25 @@ namespace Harjoitus3
 
         public void NäytäTiedot()
         {
-            if (Tila)
+            if (Tila) //Jos kiuas on päällä, tulostetaan if lauseen sisältö
             {
                 Console.WriteLine("Kiuas " + Nimi + " on päällä");
                 Console.WriteLine("Lämpötila = " + Lämpötila);
                 Console.WriteLine("Kosteus = " + Kosteus);
             }
-            else
+            else //Jos kiuas ei ole päällä, tulostetaan else lauseen sisältö
             {
                 Console.WriteLine("Kiuas " + Nimi + " ei ole päällä");
             }
 
             
         }
-        public void SäädäLämpötila(int uusiLämpötila)
+        public void SäädäLämpötila(int uusiLämpötila) //Muutetaan lämpötilaa
         {
             Lämpötila = uusiLämpötila;
         }
 
-        public void SäädäKosteutta(int uusiKosteus)
+        public void SäädäKosteutta(int uusiKosteus) //Muutetaan kiukaan kosteutta
         {
             Kosteus = uusiKosteus;
         }

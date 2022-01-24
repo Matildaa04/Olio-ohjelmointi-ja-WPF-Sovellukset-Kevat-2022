@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Harjoitus8_KT_
 {
-    class Työntekijä : Henkilö
+    class Työntekijä : Henkilö //Tämä luokka on henkilö-luokan aliluokka
     {
         public override string Nimi { get; set; }
         public static string Tunnus;

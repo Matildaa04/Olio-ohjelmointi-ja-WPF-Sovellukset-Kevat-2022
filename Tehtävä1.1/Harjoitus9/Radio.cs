@@ -6,11 +6,13 @@ namespace Harjoitus9
 {
     class Radio
     {
+        //ominaisuudet
         private int minKanava;
         private int maxKanava;
 
         private int nykyinenKanava;
 
+        //Konstruktori
         public Radio(int minKanava, int maxKanava)
         {
             this.minKanava = minKanava;
@@ -24,7 +26,7 @@ namespace Harjoitus9
             get => nykyinenKanava;
             set
             {
-                if (value > maxKanava || value < minKanava)
+                if (value > maxKanava || value < minKanava) //Tulostaa if lauseen, jos käyttäjä syöttää virheellisen kanavan
                 {
                     Console.WriteLine("Virheellinen kanava! Jäädään kanavalle " + nykyinenKanava);
                 }

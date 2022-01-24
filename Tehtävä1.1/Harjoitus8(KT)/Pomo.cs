@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Harjoitus8_KT_
 {
-    class Pomo : Henkilö
+    class Pomo : Henkilö //Tämä on henkilö-luokan aliluokka
     {
         public override string Nimi { get; set; }
         public static string Tunnus;
@@ -14,6 +14,7 @@ namespace Harjoitus8_KT_
 
         public static int Instanssit = 0;
 
+        //Konstruktori pomolle
         public Pomo(string nimi, int ikä, string auto, int bonus)
         {
             Tunnus = nimi;
@@ -24,7 +25,7 @@ namespace Harjoitus8_KT_
             Instanssit++;
         }
 
-        public static void KuinkaMontaPomoa()
+        public static void KuinkaMontaPomoa() //Tarkistetaan, montako pomoa on olemassa kaikista henkilöistä
         {
             Console.WriteLine("Pomoja on olemassa: " + Instanssit);
 
