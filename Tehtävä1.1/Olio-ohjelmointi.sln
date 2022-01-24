@@ -51,6 +51,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SivujenVaihto", "SivujenVai
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hissi", "Hissi\Hissi.csproj", "{58ED6F5A-7F5B-4D4A-83C6-F58AAF3A7948}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus20", "Harjoitus20\Harjoitus20.csproj", "{8041CF2E-71F2-4C24-912A-F97B5BF2A09A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus21", "Harjoitus21\Harjoitus21.csproj", "{BE98AB04-BED6-4251-BC51-B13589C9C483}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +157,14 @@ Global
 		{58ED6F5A-7F5B-4D4A-83C6-F58AAF3A7948}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58ED6F5A-7F5B-4D4A-83C6-F58AAF3A7948}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58ED6F5A-7F5B-4D4A-83C6-F58AAF3A7948}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8041CF2E-71F2-4C24-912A-F97B5BF2A09A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8041CF2E-71F2-4C24-912A-F97B5BF2A09A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8041CF2E-71F2-4C24-912A-F97B5BF2A09A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8041CF2E-71F2-4C24-912A-F97B5BF2A09A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE98AB04-BED6-4251-BC51-B13589C9C483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE98AB04-BED6-4251-BC51-B13589C9C483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE98AB04-BED6-4251-BC51-B13589C9C483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE98AB04-BED6-4251-BC51-B13589C9C483}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
