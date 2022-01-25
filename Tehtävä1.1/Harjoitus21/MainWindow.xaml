@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:Harjoitus21"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+    <Grid Margin="0,0,-6.667,0.667">
         <Grid.Background>
             <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                 <GradientStop Color="White"/>
@@ -14,25 +14,22 @@
                 <GradientStop Color="#FFD5C8FF" Offset="0.448"/>
             </LinearGradientBrush>
         </Grid.Background>
-        <CheckBox x:Name="cb_Omena" Content="Omena" HorizontalAlignment="Left" Margin="104,84,0,0" VerticalAlignment="Top" Height="28" Width="120" Checked="cb_Omena_Checked"/>
-        <CheckBox x:Name="cb_Leipä" Content="Leipä" HorizontalAlignment="Left" Margin="104,145,0,0" VerticalAlignment="Top" Height="28" Width="120" Checked="cb_Leipä_Checked"/>
-        <CheckBox x:Name="cb_Karkkipussi" Content="Karkkipussi" HorizontalAlignment="Left" Margin="104,201,0,0" VerticalAlignment="Top" Height="27" Width="91" Checked="cb_Karkkipussi_Checked"/>
-        <CheckBox x:Name="cb_Energiajuoma" Content="Energiajuoma" HorizontalAlignment="Left" Margin="104,259,0,0" VerticalAlignment="Top" Height="29" Width="107" Checked="cb_Energiajuoma_Checked"/>
-        <CheckBox x:Name="cb_Vehnäjauhot" Content="Vehnäjauhot" HorizontalAlignment="Left" Margin="104,320,0,0" VerticalAlignment="Top" Height="25" Width="89" Checked="cb_Vehnäjauhot_Checked"/>
         <TextBlock HorizontalAlignment="Left" Margin="292,28,0,0" TextWrapping="Wrap" Text="Kauppalista" VerticalAlignment="Top" Height="40" Width="120" FontFamily="Gill Sans MT Ext Condensed Bold" FontSize="36"/>
-        <StackPanel x:Name="sp_Lista" HorizontalAlignment="Left" Height="261" Margin="501,89,0,0" VerticalAlignment="Top" Width="208" Background="#FFE0D7FF"/>
-        <Button x:Name="btn_LisääTuotteet" Content="Lisää tuotteet kauppalistaan" HorizontalAlignment="Left" Margin="264,193,0,0" VerticalAlignment="Top" Width="164" Height="58" RenderTransformOrigin="0.5,0.5" Click="btn_LisääTuotteet_Click">
-            <Button.RenderTransform>
-                <TransformGroup>
-                    <ScaleTransform/>
-                    <SkewTransform AngleX="-0.477"/>
-                    <RotateTransform/>
-                    <TranslateTransform X="-0.492"/>
-                </TransformGroup>
-            </Button.RenderTransform>
-        </Button>
-        <TextBlock HorizontalAlignment="Left" Margin="501,63,0,0" TextWrapping="Wrap" Text="Tuotteet listalla:" VerticalAlignment="Top" Height="21" Width="208" FontSize="18"/>
-        <Button x:Name="btn_OstaTuotteet" Content="Osta" HorizontalAlignment="Left" Margin="501,364,0,0" VerticalAlignment="Top" Width="107" Height="47"/>
+
+        <ListBox Margin="255,152,0,0" Name="listBox1" HorizontalAlignment="Left" VerticalAlignment="Top" Width="194" Height="200">
+            <ListBoxItem Content="Kahvi"></ListBoxItem>
+            <ListBoxItem Content="Tee"></ListBoxItem>
+            <ListBoxItem Content="Appelsiinimehu"></ListBoxItem>
+            <ListBoxItem Content="Maito"></ListBoxItem>
+            <ListBoxItem Content="Jäätee"></ListBoxItem>
+            <ListBoxItem Content="Energiajuoma"></ListBoxItem>
+        </ListBox>
+
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="255,108,0,0" Name="textBox1" VerticalAlignment="Top" Width="194" />
+        <Button Height="23" Margin="456,108,0,0" Name="button1" VerticalAlignment="Top" HorizontalAlignment="Left" Width="118" Click="button1_Click">Lisää tuote listaan</Button>
+
+        <Button Height="23" Margin="255,371,351,0" Name="DeleteButton" VerticalAlignment="Top" Click="DeleteButton_Click">Poista tuote listasta</Button>
+
 
     </Grid>
 </Window>

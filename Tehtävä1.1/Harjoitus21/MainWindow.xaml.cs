@@ -25,39 +25,17 @@ namespace Harjoitus21
         {
             InitializeComponent();
         }
-        private void btn_LisääTuotteet_Click(object sender, RoutedEventArgs e)
+
+        private void button1_Click(object sender, RoutedEventArgs e)
         {
-
-            if ((bool)cb_Omena.IsChecked)
-            {
-                StackPanel;
-            }
-
+            //kirjoittamalla ja nappia painamalla lisää tuotteen listaan
+            listBox1.Items.Add(textBox1.Text);
         }
 
-        private void cb_Omena_Checked(object sender, RoutedEventArgs e)
+        private void DeleteButton_Click(object sender, RoutedEventArgs e)
         {
+            //Poistaa käyttäjän antaman tuotteen listasta
+            listBox1.Items.RemoveAt(listBox1.Items.IndexOf(listBox1.SelectedItem));
         }
-
-        private void cb_Leipä_Checked(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void cb_Karkkipussi_Checked(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void cb_Energiajuoma_Checked(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void cb_Vehnäjauhot_Checked(object sender, RoutedEventArgs e)
-        {
-
-        }
-
     }
 }

@@ -14,5 +14,6 @@ namespace Harjoitus13
         {
             Console.WriteLine("Pelaaja: {0} {1}. Pelaajanumero: {2}", Etunimi, Sukunimi, PelaajaNumero);
         }
+
     }
 }

@@ -8,16 +8,35 @@ namespace Harjoitus13
         static void Main(string[] args)
         {
             Dictionary<int, Pelaaja> pelaajat = new Dictionary<int, Pelaaja>();
-        }
+            string syöte;
 
-        static void LisääPelaaja(Dictionary<int, Pelaaja> pelaajat)
-        {
-            Pelaaja uusiPelaaja = new Pelaaja();
+            syöte = Console.ReadLine();
 
-
-            foreach (Pelaaja item in pelaajat.Values)
+            while (true)
             {
-                item.TulostaTiedot();
+                Console.WriteLine("1. lisää pelaaja ");
+                Console.WriteLine("2. poista pelaaja ");
+                Console.WriteLine("3. tulosta ");
+                Console.WriteLine("4. poistu ");
+
+                syöte = Console.ReadLine();
+
+                switch (syöte)
+                {
+                    case "lisää":
+                        LisääPelaaja(pelaajat);
+                        break;
+                    case "poista":
+                        PoistaPelaaja(pelaajat);
+                        break;
+                    case " tulosta:":
+                        TulostaPelaaja(pelaajat);
+                        break;
+                    case "poistu":
+                        return;
+                    default:
+                        break;
+                }
             }
         }
     }
